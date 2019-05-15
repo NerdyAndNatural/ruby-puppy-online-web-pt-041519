@@ -1,4 +1,4 @@
-class Shelter
+class Dog
   attr_accessor :name, :city
   @@all = []
 
